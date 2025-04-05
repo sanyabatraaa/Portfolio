@@ -9,8 +9,8 @@ export const Bio = {
     github: "https://github.com/sanyabatraaa",
     resume:
       "https://drive.google.com/file/d/1d2S9GlmODRkAw2Ez3cjYB4CrbhzXiPhp/view?usp=drivesdk",
-    linkedin: "",
-    insta: "https://www.instagram.com/sanyabatraaa/",
+    linkedin: "https://www.linkedin.com/in/sanya-batra-51b974283/",
+    insta: "",
     
   };
   
